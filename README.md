@@ -39,7 +39,7 @@ I've led cross-functional engineering teams, shipped enterprise identity platfor
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-6F42C1?style=flat)
+![Llama](https://img.shields.io/badge/Llama-6F42C1?style=flat)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF6B00?style=flat)
 
 ## What I've Been Working On
