@@ -1,4 +1,4 @@
-# Hi, I'm Ashen
+# Hi, I'm Ashen 👋
 
 **Software Engineer** with 5+ years building distributed systems, identity platforms, and AI-powered applications at enterprise scale. Currently finishing an **M.S. in Computer Science** at Northeastern University, with research in post-quantum cryptography and generative AI.
 
@@ -6,7 +6,7 @@ I've led cross-functional teams, shipped production platforms serving global cus
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -45,7 +45,7 @@ I've led cross-functional teams, shipped production platforms serving global cus
 
 ---
 
-## What I've Been Building
+## 🔨 What I've Been Building
 
 ### Context-Aware AI Agent Platform
 SaaS platform with multi-agent orchestration, RAG pipelines, and subscription management.  
@@ -61,20 +61,16 @@ Distributed task orchestration with tenant isolation, circuit breakers, and even
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashendes&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashendes&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 </p>
 
 ---
 
-## Let's Connect
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="https://ashendesilva.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
